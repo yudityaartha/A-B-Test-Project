@@ -55,16 +55,10 @@ This project analyzes an A/B test dataset from Kaggle:
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 - `AB_Test_Project.ipynb` → Full analysis notebook
 - `AB_Test_Project.pdf` → Clean PDF version
 - `AB_Test.pptx` → Slide deck presentation
-
----
-
-## 🔗 Links
-- **Dataset**: [Kaggle AB Test Data](https://www.kaggle.com/datasets/sergylog/ab-test-data)
-- **Tableau/GitHub Portfolio**: *[Update with correct A/B Test dashboard link]*
 
 ---
 
