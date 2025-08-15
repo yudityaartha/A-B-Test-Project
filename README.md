@@ -42,6 +42,11 @@ This project analyzes an A/B test dataset from Kaggle:
 | Conversion Rate        | 1.61%   | 1.43%   | 0.488   | ❌ No         |
 | Revenue (paying users) | 2,96    | 2,17    | 0.079   | ❌ No         |
 
+|	Group   |	Total Users | Paying Users	| Conversion  Rate	   |   Paying_Mean       | 	Paying_Median  |
+| ------- | ----------- | ------------- | -------------------- | ------------------- | --------------- |
+| control	| 4984	      | 80	          | 0.016051364365971106 |	8.0375	           | 2.96            |
+| variant	| 5016	      | 72	          | 0.014354066985645933 |	4.8815277777777775 | 2.17            |
+
 - Effect sizes indicate negligible to small differences.
 - Bootstrap CI includes zero → differences may be positive or negative.
 - Power analysis shows **MDE ≈ 0,78 pp change**, requiring ~16× more data to detect small effects.
